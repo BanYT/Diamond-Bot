@@ -888,4 +888,4 @@ client.on('message', message => {
 //
 //
 
-client.login("ODQwOTIyOTQ5MjIwMzAyODQ5.YJfQhg.O7687xckQh99xXKcNdZHyhBJWv4");
+client.login(process.env.TOKEN);
